@@ -16,6 +16,7 @@
 If you find my projects helpful or simply enjoy using them, consider giving them a star! Your support means a lot and encourages ongoing development.
 
 -----
+[![Github](https://img.shields.io/github/followers/poojaswe?label=Follow&style=social)](https://github.com/poojaswe)
 
 Credits: [poojaswe](https://github.com/poojaswe)
 
